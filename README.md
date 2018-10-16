@@ -24,4 +24,4 @@ POST /users/authenticate // Gives back a token
 GET /users/profile // Needs json web token to authorize
 ``` 
 
-**NOTE: files in public/ are for demonstration purposes. Remove as you see fit**
+**NOTE: files in ``` public/``` are for demonstration purposes. Remove as you see fit**
